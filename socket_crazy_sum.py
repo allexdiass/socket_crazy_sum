@@ -15,7 +15,7 @@ print('''
   VMMMb  dMP dMP dMP     dMMMMK" dMMMP      dMP          dMP     dMMMMK" dMMMMMP .dMP"   VMMMMP         VMMMb  dMP dMP dMP dMP dMP  
 dP .dMP dMP.aMP dMP.aMP dMP"AMF dMP        dMP          dMP.aMP dMP"AMF dMP dMP.dMP"   dA .dMP        dP .dMP dMP.aMP dMP dMP dMP   
 VMMMP"  VMMMP"  VMMMP" dMP dMP dMMMMMP    dMP           VMMMP" dMP dMP dMP dMPdMMMMMP  VMMMP"         VMMMP"  VMMMP" dMP dMP dMP    
-BY allexdiass
+BY alxdi-az
 v: 1.0
 **************************************************************************************************************************************
 \n''')
